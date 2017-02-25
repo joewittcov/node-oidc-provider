@@ -1,7 +1,5 @@
 /* eslint-disable max-len */
 
-'use strict';
-
 const pkg = require('../package.json');
 
 module.exports.config = {

@@ -1,5 +1,3 @@
-'use strict';
-
 const bootstrap = require('../test_helper');
 const RequestUriCache = require('../../lib/helpers/request_uri_cache');
 const JWT = require('../../lib/helpers/jwt');
